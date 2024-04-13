@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\Analisis de Sistemas\\Laboratorio\\APSProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA29DD5B-D922-4410-8E13-9AAE74901A65}|APSProject\\ADSProject.csproj|C:\\Users\\Usuario\\Desktop\\Analisis de Sistemas\\Laboratorio\\APSProject\\apsproject\\repositories\\carrerarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA29DD5B-D922-4410-8E13-9AAE74901A65}|APSProject\\ADSProject.csproj|solutionrelative:apsproject\\repositories\\carrerarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA29DD5B-D922-4410-8E13-9AAE74901A65}|APSProject\\ADSProject.csproj|c:\\users\\usuario\\desktop\\analisis de sistemas\\laboratorio\\apsproject\\apsproject\\controllers\\carrerascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA29DD5B-D922-4410-8E13-9AAE74901A65}|APSProject\\ADSProject.csproj|solutionrelative:apsproject\\controllers\\carrerascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarrerasController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Analisis de Sistemas\\Laboratorio\\APSProject\\APSProject\\Controllers\\CarrerasController.cs",
+              "RelativeDocumentMoniker": "APSProject\\Controllers\\CarrerasController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Analisis de Sistemas\\Laboratorio\\APSProject\\APSProject\\Controllers\\CarrerasController.cs",
+              "RelativeToolTip": "APSProject\\Controllers\\CarrerasController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAIkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T06:04:11.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarreraRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Analisis de Sistemas\\Laboratorio\\APSProject\\APSProject\\Repositories\\CarreraRepository.cs",
+              "RelativeDocumentMoniker": "APSProject\\Repositories\\CarreraRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Analisis de Sistemas\\Laboratorio\\APSProject\\APSProject\\Repositories\\CarreraRepository.cs",
+              "RelativeToolTip": "APSProject\\Repositories\\CarreraRepository.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAFcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T05:04:48.994Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

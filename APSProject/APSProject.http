@@ -1,0 +1,6 @@
+@APSProject_HostAddress = http://localhost:5089
+
+GET {{APSProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
