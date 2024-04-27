@@ -12,7 +12,8 @@ builder.Services.AddSwaggerGen();
 
 //Configurando inyeccion de dependencias
 builder.Services.AddSingleton<IEstudiante, EstudianteRepository>();
-builder.Services.AddSingleton<CarreraRepository, CarreraRepository>();
+builder.Services.AddSingleton<ICarrera, CarreraRepository>();
+builder.Services.AddSingleton<IMateria, MateriaRepository>();
 
 var app = builder.Build();
 

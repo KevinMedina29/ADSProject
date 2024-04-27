@@ -4,7 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.VisualBasic;
 using System.Globalization;
 
-namespace ADSProject.Controllers
+namespace ADSProject.Controller
 {
     [Route("api/carreras/")]
     public class CarrerasController : ControllerBase

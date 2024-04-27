@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\Analisis de Sistemas\\Laboratorio\\APSProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FA29DD5B-D922-4410-8E13-9AAE74901A65}|APSProject\\ADSProject.csproj|C:\\Users\\Usuario\\Desktop\\Analisis de Sistemas\\Laboratorio\\APSProject\\apsproject\\repositories\\carrerarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA29DD5B-D922-4410-8E13-9AAE74901A65}|APSProject\\ADSProject.csproj|solutionrelative:apsproject\\repositories\\carrerarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FA29DD5B-D922-4410-8E13-9AAE74901A65}|APSProject\\ADSProject.csproj|c:\\users\\usuario\\desktop\\analisis de sistemas\\laboratorio\\apsproject\\apsproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA29DD5B-D922-4410-8E13-9AAE74901A65}|APSProject\\ADSProject.csproj|solutionrelative:apsproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA29DD5B-D922-4410-8E13-9AAE74901A65}|APSProject\\ADSProject.csproj|c:\\users\\usuario\\desktop\\analisis de sistemas\\laboratorio\\apsproject\\apsproject\\controllers\\carrerascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA29DD5B-D922-4410-8E13-9AAE74901A65}|APSProject\\ADSProject.csproj|solutionrelative:apsproject\\controllers\\carrerascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FA29DD5B-D922-4410-8E13-9AAE74901A65}|APSProject\\ADSProject.csproj|C:\\Users\\Usuario\\Desktop\\Analisis de Sistemas\\Laboratorio\\APSProject\\apsproject\\controllers\\materiascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA29DD5B-D922-4410-8E13-9AAE74901A65}|APSProject\\ADSProject.csproj|solutionrelative:apsproject\\controllers\\materiascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA29DD5B-D922-4410-8E13-9AAE74901A65}|APSProject\\ADSProject.csproj|C:\\Users\\Usuario\\Desktop\\Analisis de Sistemas\\Laboratorio\\APSProject\\apsproject\\repositories\\materiarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA29DD5B-D922-4410-8E13-9AAE74901A65}|APSProject\\ADSProject.csproj|solutionrelative:apsproject\\repositories\\materiarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA29DD5B-D922-4410-8E13-9AAE74901A65}|APSProject\\ADSProject.csproj|C:\\Users\\Usuario\\Desktop\\Analisis de Sistemas\\Laboratorio\\APSProject\\apsproject\\models\\materia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA29DD5B-D922-4410-8E13-9AAE74901A65}|APSProject\\ADSProject.csproj|solutionrelative:apsproject\\models\\materia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA29DD5B-D922-4410-8E13-9AAE74901A65}|APSProject\\ADSProject.csproj|C:\\Users\\Usuario\\Desktop\\Analisis de Sistemas\\Laboratorio\\APSProject\\apsproject\\interfaces\\imateria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA29DD5B-D922-4410-8E13-9AAE74901A65}|APSProject\\ADSProject.csproj|solutionrelative:apsproject\\interfaces\\imateria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,37 +30,80 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CarrerasController.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Analisis de Sistemas\\Laboratorio\\APSProject\\APSProject\\Controllers\\CarrerasController.cs",
-              "RelativeDocumentMoniker": "APSProject\\Controllers\\CarrerasController.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Analisis de Sistemas\\Laboratorio\\APSProject\\APSProject\\Controllers\\CarrerasController.cs",
-              "RelativeToolTip": "APSProject\\Controllers\\CarrerasController.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAIkAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T06:04:11.234Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CarreraRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Analisis de Sistemas\\Laboratorio\\APSProject\\APSProject\\Repositories\\CarreraRepository.cs",
-              "RelativeDocumentMoniker": "APSProject\\Repositories\\CarreraRepository.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Analisis de Sistemas\\Laboratorio\\APSProject\\APSProject\\Repositories\\CarreraRepository.cs",
-              "RelativeToolTip": "APSProject\\Repositories\\CarreraRepository.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAFcAAAAJAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Analisis de Sistemas\\Laboratorio\\APSProject\\APSProject\\Program.cs",
+              "RelativeDocumentMoniker": "APSProject\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Analisis de Sistemas\\Laboratorio\\APSProject\\APSProject\\Program.cs",
+              "RelativeToolTip": "APSProject\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T05:04:48.994Z",
+              "WhenOpened": "2024-04-22T22:34:50.14Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MateriasController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Analisis de Sistemas\\Laboratorio\\APSProject\\APSProject\\Controllers\\MateriasController.cs",
+              "RelativeDocumentMoniker": "APSProject\\Controllers\\MateriasController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Analisis de Sistemas\\Laboratorio\\APSProject\\APSProject\\Controllers\\MateriasController.cs",
+              "RelativeToolTip": "APSProject\\Controllers\\MateriasController.cs",
+              "ViewState": "AQIAAJMAAAAAAAAAAAAAAJIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T22:22:52.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Materia.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Analisis de Sistemas\\Laboratorio\\APSProject\\APSProject\\Models\\Materia.cs",
+              "RelativeDocumentMoniker": "APSProject\\Models\\Materia.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Analisis de Sistemas\\Laboratorio\\APSProject\\APSProject\\Models\\Materia.cs",
+              "RelativeToolTip": "APSProject\\Models\\Materia.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T22:09:34.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MateriaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Analisis de Sistemas\\Laboratorio\\APSProject\\APSProject\\Repositories\\MateriaRepository.cs",
+              "RelativeDocumentMoniker": "APSProject\\Repositories\\MateriaRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Analisis de Sistemas\\Laboratorio\\APSProject\\APSProject\\Repositories\\MateriaRepository.cs",
+              "RelativeToolTip": "APSProject\\Repositories\\MateriaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T22:03:19.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IMateria.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Analisis de Sistemas\\Laboratorio\\APSProject\\APSProject\\Interfaces\\IMateria.cs",
+              "RelativeDocumentMoniker": "APSProject\\Interfaces\\IMateria.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Analisis de Sistemas\\Laboratorio\\APSProject\\APSProject\\Interfaces\\IMateria.cs",
+              "RelativeToolTip": "APSProject\\Interfaces\\IMateria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T21:59:51.033Z"
             }
           ]
         },

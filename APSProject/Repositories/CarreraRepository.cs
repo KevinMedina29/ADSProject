@@ -75,7 +75,7 @@ namespace ADSProject.Repositories
 
         }
 
-        public List<Carrera> ObtenerTodosLasCarreras()
+        public List<Carrera> ObtenerTodasLasCarreras()
         {
             try
             {
